@@ -1,0 +1,115 @@
+
+.navbar {
+	background-color: white;
+	margin-bottom: 30px;
+	padding: 0;
+	border-bottom: 2px solid #CCCCCC;
+}
+.navbar-header{
+	background-color: #4aaaa5;
+	margin-left:135px;
+	padding: 10px 40px;
+}
+.navbar-nav{
+	padding-right: 240px;
+}
+.spacer{
+	padding: 0 20px;
+	color:#CCCCCC;
+}
+.directory{
+	color: #CCCCCC;
+}
+body{
+	background: url("../images/fresh_snow_@2X.png");
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 60px; 
+}
+h1, h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+}
+h1 {
+	color: white;
+	font-size: 24px;
+}
+h2{
+	color: #4aaaa5;
+	border-bottom: 2px solid #DEDEDE;
+	font-size: 24px;
+	padding: 20px 20px 5px 20px;
+
+}
+h3{
+	color: #4aaaa5;
+	font-size: 18px;
+	padding: 20px;
+	text-align: center;
+	border-bottom: 2px solid #DEDEDE;
+	margin: 0 20px;
+}
+p{
+	margin-top: 20px;
+	line-height: 200%;
+	padding: 20px;
+}
+#content{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.card-body{
+	padding-left: 30px;
+}
+.col-spaced {
+     margin-right: 15px
+     background-color: white;
+}
+.text-muted {
+	text-align: center;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+.photosleft{
+	clear: both;
+	float: left;
+	width: 285px;
+	height: 100%;
+	margin-left:40px;
+	position: relative;
+}
+.photosright{
+	float: right;
+	width: 285px;
+	height: 100%;
+	margin-right:40px;
+	position: relative;
+}
+.title{ 	
+   position: relative; 
+   background: #4aaaa5;
+   bottom: 50px;
+   width: 100%;
+  text-align: center;
+  color: white; 
+  padding: 10px 0;
+   font: 18px 'Georgia', Times, Times New Roman, serif;  
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #666666;
+  text-align: center;
+  border-top: 6px solid #4aaaa5;
+}
+.col-md-8{
+	border: 1px solid #CCCCCC;
+	background-color: #ffffff;
+}
+
+
